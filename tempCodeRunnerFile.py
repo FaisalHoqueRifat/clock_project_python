@@ -1,0 +1,2 @@
+Label(root,text = 'ID: C221076', font = ("Times New Roman", 20), foreground = 'purple').pack(side=BOTTOM)
+Label(root,text = 'Creator - Md. Faisal Hoque Rifat', font = ("Times New Roman", 20), foreground = 'cyan').pack(side=BOTTOM)
